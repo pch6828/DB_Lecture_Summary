@@ -17,3 +17,5 @@ This is a link to online lecture that I took<br>
 - 8/12<br>
   - 03. Database Storage 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/03-Database_Storage_1.pdf)
   - 04. Database Storage 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/04-Database_Storage_2.pdf)
+- 8/13<br>
+  - 05. Buffer Pools & Memory Management - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/05-Buffer_Pools_%26_Memory_Management.pdf)
