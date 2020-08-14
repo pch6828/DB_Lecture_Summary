@@ -12,13 +12,13 @@ This is a link to online lecture that I took<br>
 [[Lecture LINK]](https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 - 8/11<br>
-  - 01. Course Introduction & Relational Model - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/01-Course_Introduction_%26_Relational_Model.pdf)
-  - 02. Advanced SQL - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/02-Advanced_SQL.pdf)
+  - 01\. Course Introduction & Relational Model - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/01-Course_Introduction_%26_Relational_Model.pdf)
+  - 02\. Advanced SQL - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/02-Advanced_SQL.pdf)
 - 8/12<br>
-  - 03. Database Storage 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/03-Database_Storage_1.pdf)
-  - 04. Database Storage 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/04-Database_Storage_2.pdf)
+  - 03\. Database Storage 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/03-Database_Storage_1.pdf)
+  - 04\. Database Storage 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/04-Database_Storage_2.pdf)
 - 8/13<br>
-  - 05. Buffer Pools & Memory Management - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/05-Buffer_Pools_%26_Memory_Management.pdf)
+  - 05\. Buffer Pools & Memory Management - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/05-Buffer_Pools_%26_Memory_Management.pdf)
 - 8/14<br>
-  - 06. Hash Tables - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/06-Hash_Tables.pdf)
-  - 07. Tree Index 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/07-Tree_Indexes_1.pdf)
+  - 06\. Hash Tables - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/06-Hash_Tables.pdf)
+  - 07\. Tree Index 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/07-Tree_Indexes_1.pdf)
