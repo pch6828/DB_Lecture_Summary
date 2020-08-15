@@ -22,3 +22,5 @@ This is a link to online lecture that I took<br>
 - 8/14<br>
   - 06\. Hash Tables - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/06-Hash_Tables.pdf)
   - 07\. Tree Index 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/07-Tree_Indexes_1.pdf)
+- 8/15<br>
+  - 08\. Tree Index 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/08-Tree_Indexes_2.pdf)
