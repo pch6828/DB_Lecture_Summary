@@ -24,3 +24,7 @@ This is a link to online lecture that I took<br>
   - 07\. Tree Index 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/07-Tree_Indexes_1.pdf)
 - 8/15<br>
   - 08\. Tree Index 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/08-Tree_Indexes_2.pdf)
+- 8/17<br>
+  - 09\. Multi-Threaded Index Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/09-Multi_Threaded_Index_Concurrency_Control.pdf)
+  - 10\. Sorting & Aggregations - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/10-Sorting_%26_Aggregations.pdf)
+  - 11\. Join Algorithms - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/11-Join_Algorithms.pdf)
