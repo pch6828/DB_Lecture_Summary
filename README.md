@@ -28,7 +28,7 @@ This is a link to online lecture that I took<br>
   - 09\. Multi-Threaded Index Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/09-Multi_Threaded_Index_Concurrency_Control.pdf)
   - 10\. Sorting & Aggregations - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/10-Sorting_%26_Aggregations.pdf)
   - 11\. Join Algorithms - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/11-Join_Algorithms.pdf)
--  8/18<br>
+- 8/18<br>
   - 12\. Query Execution 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/12-Query_Execution_1.pdf)
   - 13\. Query Execution 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/13-Query_Execution_2.pdf)
   - 14\. Query Planning & Optimization 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/14-Query_Planning_%26_Optimization_1.pdf)
