@@ -32,3 +32,6 @@ This is a link to online lecture that I took<br>
   - 12\. Query Execution 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/12-Query_Execution_1.pdf)
   - 13\. Query Execution 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/13-Query_Execution_2.pdf)
   - 14\. Query Planning & Optimization 1 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/14-Query_Planning_%26_Optimization_1.pdf)
+- 8/19<br>
+  - 15\. Query Planning & Optimization 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/15-Query_Planning_%26_Optimization_2.pdf)
+  - 16\. Concurrency Control Theory - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/16-Concurrency_Control_Theory.pdf)
