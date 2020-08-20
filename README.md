@@ -35,3 +35,7 @@ This is a link to online lecture that I took<br>
 - 8/19<br>
   - 15\. Query Planning & Optimization 2 - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/15-Query_Planning_%26_Optimization_2.pdf)
   - 16\. Concurrency Control Theory - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/16-Concurrency_Control_Theory.pdf)
+- 8/20<br>
+  - 17\. Two-Phase Locking Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/17-TwoPhase_Locking_Concurrency_Control.pdf)
+  - 18\. Timestamp Ordering Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/18-Timestamp_Ordering_Concurrency_Control.pdf)
+  - 19\. Multi-Version Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/19-MultiVersion_Concurrency_Control.pdf)
