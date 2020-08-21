@@ -39,3 +39,5 @@ This is a link to online lecture that I took<br>
   - 17\. Two-Phase Locking Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/17-TwoPhase_Locking_Concurrency_Control.pdf)
   - 18\. Timestamp Ordering Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/18-Timestamp_Ordering_Concurrency_Control.pdf)
   - 19\. Multi-Version Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/19-MultiVersion_Concurrency_Control.pdf)
+- 8/21<br>
+  - 20\. Database Logging Schemes - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/20-Database_Logging_Schemes.pdf)
