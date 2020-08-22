@@ -41,3 +41,7 @@ This is a link to online lecture that I took<br>
   - 19\. Multi-Version Concurrency Control - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/19-MultiVersion_Concurrency_Control.pdf)
 - 8/21<br>
   - 20\. Database Logging Schemes - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/20-Database_Logging_Schemes.pdf)
+- 8/22<br>
+  - 21\. ARIES Database Recovery - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/21-ARIES_Database_Recovery.pdf)
+  - 22\. Introduction to Distributed Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/22-Introduction_to_Distributed_Databases.pdf)
+  - 23\. Distributed OLTP Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/23-Distributed_OLTP_Databases.pdf)
