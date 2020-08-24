@@ -45,3 +45,6 @@ This is a link to online lecture that I took<br>
   - 21\. ARIES Database Recovery - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/21-ARIES_Database_Recovery.pdf)
   - 22\. Introduction to Distributed Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/22-Introduction_to_Distributed_Databases.pdf)
   - 23\. Distributed OLTP Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/23-Distributed_OLTP_Databases.pdf)
+- 8/24<br>
+  - 24\. Distributed OLAP Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/24-Distributed_OLAP_Databases.pdf)
+  - 25\. Oracle In-Memory Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/25-Oracle_In_Memory_Databases.pdf)
