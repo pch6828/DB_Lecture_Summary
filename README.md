@@ -48,3 +48,12 @@ This is a link to online lecture that I took<br>
 - 8/24<br>
   - 24\. Distributed OLAP Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/24-Distributed_OLAP_Databases.pdf)
   - 25\. Oracle In-Memory Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Intro%20to%20Database%20Systems/25-Oracle_In_Memory_Databases.pdf)
+***
+## Advanced Database Systems
+This is a link to online lecture that I took<br>
+[[Lecture LINK]](https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+Before taking a lecture, I read a paper that is anounced in Andy's [course schedule](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+
+- 8/26<br>
+  - 01\. History of Databases
+  - No paper used in this lecture
