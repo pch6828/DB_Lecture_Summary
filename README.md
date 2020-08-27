@@ -51,9 +51,13 @@ This is a link to online lecture that I took<br>
 ***
 ## Advanced Database Systems
 This is a link to online lecture that I took<br>
-[[Lecture LINK]](https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+[[Lecture LINK]](https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)<br>
 Before taking a lecture, I read a paper that is anounced in Andy's [course schedule](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
 
 - 8/26<br>
   - 01\. History of Databases
   - No paper used in this lecture
+- 8/26<br>
+  - 02\. In-Memory Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/02-In%20Memory%20Databases/02-InMemory_Databases.pdf)
+  - X. Yu, et al., Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores, in VLDB, 2014
+  <br>[[Paper]](https://dl.acm.org/doi/10.14778/2735508.2735511)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/02-In%20Memory%20Databases/02-Paper_Synopsis.pdf)
