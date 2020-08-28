@@ -57,7 +57,11 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
 - 8/26<br>
   - 01\. History of Databases
   - No paper used in this lecture
-- 8/26<br>
+- 8/27<br>
   - 02\. In-Memory Databases - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/02-In%20Memory%20Databases/02-InMemory_Databases.pdf)
   - X. Yu, et al., Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores, in VLDB, 2014
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/2735508.2735511)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/02-In%20Memory%20Databases/02-Paper_Synopsis.pdf)
+- 8/28 & 8/29<br>
+  - 03\. Multi-Version Concurrency Control [Design Decisions] - [Summary - not yet]
+  - Y. Wu, et al., An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, in VLDB, 2017
+  <br>[[Paper]](https://dl.acm.org/doi/10.14778/3067421.3067427)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/03-MVCC%20Design%20Decisions/03-Paper_Synopsis.pdf)
