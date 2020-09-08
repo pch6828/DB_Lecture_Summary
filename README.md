@@ -74,6 +74,6 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - J. Böttcher, et al., Scalable Garbage Collection for In-Memory MVCC Systems, in VLDB, 2019
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/3364324.3364328)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/05-MVCC%20Garbage%20Collection/05-Paper_Synopsis.pdf)
 - 9/7<br>
-  - 06\. OLTP Indexes [Part I] - [Summary - not yet]()
+  - 06\. OLTP Indexes [Part I] - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/06-OLTP%20Database%201/06-OLTP_Databases_1.pdf)
   - Z. Wang, et al., Building A Bw-Tree Takes More Than Just Buzz Words, in SIGMOD, 2018 
-  <br>[[Paper]](https://dl.acm.org/doi/10.1145/3183713.3196895)  [[Synopsis] - not yet]()
+  <br>[[Paper]](https://dl.acm.org/doi/10.1145/3183713.3196895)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/06-OLTP%20Database%201/06-Paper_Synopsis.pdf)
