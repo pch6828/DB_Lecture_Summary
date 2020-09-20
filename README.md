@@ -85,3 +85,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 08\. Storage Models, Data Layout, & System Catalogs - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/08-Storage%20Models%2C%20Data%20Layout%2C%20%26%20System%20Catalogs/08-Database_Storage_Models_%26_Layout.pdf)
   - M. Athanassoulis, et al., Optimal Column Layout for Hybrid Workloads, in VLDB, 2019
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/3358701.3358707)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/08-Storage%20Models%2C%20Data%20Layout%2C%20%26%20System%20Catalogs/08-Paper_Synopsis.pdf)
+- 9/18 & 9/19 & 9/20<br>
+  - 09\. Database Compression - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/09-Database%20Compression/09-Database_Compression.pdf)
+  - D. Abadi, et al., Integrating Compression and Execution in Column-Oriented Database Systems, in SIGMOD, 2006
+  <br>[[Paper]](https://dl.acm.org/doi/10.1145/1142473.1142548)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/09-Database%20Compression/09-Paper_Synopsis.pdf)
