@@ -89,3 +89,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 09\. Database Compression - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/09-Database%20Compression/09-Database_Compression.pdf)
   - D. Abadi, et al., Integrating Compression and Execution in Column-Oriented Database Systems, in SIGMOD, 2006
   <br>[[Paper]](https://dl.acm.org/doi/10.1145/1142473.1142548)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/09-Database%20Compression/09-Paper_Synopsis.pdf)
+- 9/22 & 9/23 & 9/24<br>
+  - 10\. Recovery Protocol - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/10-Recovery%20Protocols/10-Recovery_Protocol.pdf)
+  - P. Antonopoulos, et al., Constant Time Recovery in Azure SQL Database, in VLDB, 2019
+  <br>[[Paper]](https://dl.acm.org/doi/10.14778/3352063.3352131)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/10-Recovery%20Protocols/10-Recovery_Protocol.pdf)
