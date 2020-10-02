@@ -93,3 +93,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 10\. Recovery Protocol - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/10-Recovery%20Protocols/10-Recovery_Protocol.pdf)
   - P. Antonopoulos, et al., Constant Time Recovery in Azure SQL Database, in VLDB, 2019
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/3352063.3352131)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/10-Recovery%20Protocols/10-Recovery_Protocol.pdf)
+- 9/29 & 9/30 & 10/2 & 10/3<br>
+  - 11\. Network Protocol - [Summary - not yet]()
+  - M. Raasveldt, et al., Don't Hold My Data Hostage: A Case for Client Protocol Redesign, in VLDB, 2017
+  <br>[[Paper]](https://dl.acm.org/doi/10.14778/3115404.3115408)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/11-Network%20Protocols/11-Paper_Synopsis.pdf)
