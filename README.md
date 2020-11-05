@@ -97,3 +97,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 11\. Network Protocol - [Summary - not yet]()
   - M. Raasveldt, et al., Don't Hold My Data Hostage: A Case for Client Protocol Redesign, in VLDB, 2017
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/3115404.3115408)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/11-Network%20Protocols/11-Paper_Synopsis.pdf)
+- 11/5
+  - 12\. Scheduling - [Summary - not yet]()
+  - V. Leis, et al., Morsel-Driven Parallelism: A NUMA-Aware Query Evaluation Framework for the Many-Core Age, in SIGMOD, 2014
+  <br>[[Paper]](https://dl.acm.org/doi/10.1145/2588555.2610507)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/12-Scheduling/12-Paper_Synopsis.pdf)
