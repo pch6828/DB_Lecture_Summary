@@ -106,6 +106,6 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - M. Kester, et al., Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?, in SIGMOD, 2017
   <br>[[Paper]](https://stratos.seas.harvard.edu/publications/access-path-selection-main-memory-optimized-data-systems-should-i-scan-or)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/13-Query%20Execution/13-Paper_Synopsis.pdf)
 - 11/15
-  - 14\. Query Compilation - [Summary - not yet]()
+  - 14\. Query Compilation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/14-Query%20Compilation/14-Query_Compilation.pdf)
   - T. Neumann, Efficiently Compiling Efficient Query Plans for Modern Hardware, in VLDB, 2011
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/2002938.2002940)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/14-Query%20Compilation/14-Paper_Synopsis.pdf)
