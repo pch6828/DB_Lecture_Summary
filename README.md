@@ -109,3 +109,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 14\. Query Compilation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/14-Query%20Compilation/14-Query_Compilation.pdf)
   - T. Neumann, Efficiently Compiling Efficient Query Plans for Modern Hardware, in VLDB, 2011
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/2002938.2002940)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/14-Query%20Compilation/14-Paper_Synopsis.pdf)
+- 11/22
+  - 15\. Vectorized Execution - [Summary - not yet]()
+  - O. Polychroniou, et al., Rethinking SIMD Vectorization for In-Memory Databases, in SIGMOD, 2015 
+  <br>[[Paper]](https://dl.acm.org/doi/10.1145/2723372.2747645)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/15-Vectorized%20Execution/15-Paper_Synopsis.pdf)
