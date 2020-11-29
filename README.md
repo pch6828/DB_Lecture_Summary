@@ -113,3 +113,8 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 15\. Vectorized Execution - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/15-Vectorized%20Execution/15-Vectorized_Execution.pdf)
   - O. Polychroniou, et al., Rethinking SIMD Vectorization for In-Memory Databases, in SIGMOD, 2015 
   <br>[[Paper]](https://dl.acm.org/doi/10.1145/2723372.2747645)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/15-Vectorized%20Execution/15-Paper_Synopsis.pdf)
+
+- 11/29
+  - 16\. Vectorize VS. Compilation - [Summary - not yet]()
+  - T. Kersten, et al., Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask, in VLDB, 2018
+  <br>[[Paper]](https://dl.acm.org/doi/abs/10.14778/3275366.3284966)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/16-Vectorize%20VS.%20Compilation/16-Paper_Synopsis.pdf)
