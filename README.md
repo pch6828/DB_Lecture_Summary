@@ -118,3 +118,8 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 16\. Vectorize VS. Compilation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/16-Vectorize%20VS.%20Compilation/16-Vectorize_VS_Compilation.pdf)
   - T. Kersten, et al., Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask, in VLDB, 2018
   <br>[[Paper]](https://dl.acm.org/doi/abs/10.14778/3275366.3284966)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/16-Vectorize%20VS.%20Compilation/16-Paper_Synopsis.pdf)
+- 1/4
+  - 17\. Hash Join Algorithms - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/17-Hash%20Join%20Algorithms/17-Hash_Join.pdf)
+  - S. Schuh, et al., An Experimental Comparison of Thirteen Relational Equi-Joins in Main Memory, in SIGMOD, 2016 
+  <br>[[Paper]](https://dl.acm.org/doi/10.1145/2882903.2882917)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/17-Hash%20Join%20Algorithms/17-Paper_Synopsis.pdf)
+
