@@ -122,4 +122,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 17\. Hash Join Algorithms - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/17-Hash%20Join%20Algorithms/17-Hash_Join.pdf)
   - S. Schuh, et al., An Experimental Comparison of Thirteen Relational Equi-Joins in Main Memory, in SIGMOD, 2016 
   <br>[[Paper]](https://dl.acm.org/doi/10.1145/2882903.2882917)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/17-Hash%20Join%20Algorithms/17-Paper_Synopsis.pdf)
-
+- 1/8
+  - 18\. 18 - Parallel Sort-Merge / Sorting Algorithms - [Summary - not yet]()
+  - C. Balkesen, et al., Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited, in VLDB, 2013
+  <br>[[Paper]](https://dl.acm.org/doi/10.14778/2732219.2732227)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/18-Sort-Merge%20Join%20Algorithms/18-Paper_Synopsis.pdf)
