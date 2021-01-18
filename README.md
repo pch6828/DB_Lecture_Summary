@@ -126,7 +126,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 18\. Parallel Sort-Merge / Sorting Algorithms - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/18-Sort-Merge%20Join%20Algorithms/18-Sorting_Algorithm.pdf)
   - C. Balkesen, et al., Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited, in VLDB, 2013
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/2732219.2732227)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/18-Sort-Merge%20Join%20Algorithms/18-Paper_Synopsis.pdf)
-- 1/15
-  - 19\. Query Optimizer Implementation - [Summary - not yet]
+- 1/15 & 1/18
+  - 19\. Query Optimizer Implementation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/19-Query%20Optimizer%20Overview/19-Query_Optimizer_Overview.pdf)
   - S. Chaudhuri, An Overview of Query Optimization in Relational Systems, in PODS, 1998 
   <br>[[Paper]](https://dl.acm.org/doi/10.1145/275487.275492)
