@@ -130,3 +130,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 19\. Query Optimizer Implementation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/19-Query%20Optimizer%20Overview/19-Query_Optimizer_Overview.pdf)
   - S. Chaudhuri, An Overview of Query Optimization in Relational Systems, in PODS, 1998 
   <br>[[Paper]](https://dl.acm.org/doi/10.1145/275487.275492)
+- 1.23
+  - 20\. Query Optimizer Implementation - [Summary - not yet]()
+  - Yongwen Xu, Efficiency in the Columbia Database Query Optimizer (pages 1-35), in Portland State University, 1998
+  <br>[[Paper]](https://15721.courses.cs.cmu.edu/spring2019/papers/22-optimizer1/xu-columbia-thesis1998.pdf)
