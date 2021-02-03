@@ -134,3 +134,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 20\. Query Optimizer Implementation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/20-Query%20Optimizer%20Implementation/20-Query_Optimizer_Implementation.pdf)
   - Yongwen Xu, Efficiency in the Columbia Database Query Optimizer (pages 1-35), in Portland State University, 1998
   <br>[[Paper]](https://15721.courses.cs.cmu.edu/spring2019/papers/22-optimizer1/xu-columbia-thesis1998.pdf)
+- 2/1 & 2/3
+  - 21\. Query Optimizer Implementation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/21-Query%20Optimizer%20Implementation%202/21-Query_Optimizer_Implementation.pdf)
+  - B. Ding, et al., Plan Stitch: Harnessing the Best of Many Plans, in VLDB, 2018
+  <br>[[Paper]](https://dl.acm.org/doi/10.14778/3231751.3231761)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/21-Query%20Optimizer%20Implementation%202/21-Paper_Synopsis.pdf)
