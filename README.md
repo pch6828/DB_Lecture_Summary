@@ -138,3 +138,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 21\. Query Optimizer Implementation - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/21-Query%20Optimizer%20Implementation%202/21-Query_Optimizer_Implementation.pdf)
   - B. Ding, et al., Plan Stitch: Harnessing the Best of Many Plans, in VLDB, 2018
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/3231751.3231761)  [[Synopsis]](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/21-Query%20Optimizer%20Implementation%202/21-Paper_Synopsis.pdf)
+- 2/8 & 2/9
+  - 22\. Cost Model - [Summary-not yet]()
+  - V. Leis, et al., How Good are Query Optimizers, Really?, in VLDB, 2015
+  <br>[[Paper]](https://dl.acm.org/doi/10.14778/2850583.2850594)
