@@ -142,3 +142,7 @@ Before taking a lecture, I read a paper that is anounced in Andy's [course sched
   - 22\. Cost Model - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/22-Cost%20Model/22-Cost_Model.pdf)
   - V. Leis, et al., How Good are Query Optimizers, Really?, in VLDB, 2015
   <br>[[Paper]](https://dl.acm.org/doi/10.14778/2850583.2850594)
+- 2/18
+  - 23\. Larger than Memory Database - [Summary](https://github.com/pch6828/DB_Lecture_Summary/blob/master/Advanced%20Database%20Systems/23-Larger%20than%20Memory%20Database/23-Larger_than_Memory_DB.pdf)
+  - V. Leis, et al., LeanStore: In-Memory Data Management beyond Main Memory, in ICDE, 2018
+  <br>[[Paper]](https://dblp.org/rec/conf/icde/LeisHK018.html)  
